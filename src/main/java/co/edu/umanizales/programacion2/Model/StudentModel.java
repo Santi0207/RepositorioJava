@@ -3,6 +3,7 @@ package co.edu.umanizales.programacion2.Model;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
+
 @Data
 @AllArgsConstructor
 public class StudentModel {
